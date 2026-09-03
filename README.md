@@ -1,6 +1,8 @@
-# Statistical Methods for Machine Learning — Master in Data Science for Economics
+# Boosting and Additive Models
 
-**Beatrice Clavarino**
+**Statistical Methods for Machine Learning** — Master in Data Science for Economics
+
+*Beatrice Clavarino*
 
 The task is to implement and analyse AdaBoost (Freund & Schapire, 1997), using decision stumps as weak learners. The algorithm is evaluated on three binary classification problems — two synthetic (XOR, Circle) and one real-world (German Credit, UCI Machine Learning Repository) — studying the evolution of training/test error, the weak-learner edge, overfitting under label noise, and a comparison against a decision tree and logistic regression.
 
